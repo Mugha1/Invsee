@@ -1,0 +1,9 @@
+author: Mugha
+version: 0.1
+main: de.mugha.Main
+name: Mugha-Invsee
+
+commands:
+  invsee:
+    permission: invsee.use
+    permission-message: Keine Rechte
